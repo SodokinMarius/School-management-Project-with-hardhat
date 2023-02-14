@@ -1,0 +1,22 @@
+{
+  "name": "school-management-projet-with-hardhat",
+  "version": "1.0.0",
+  "description": "Smart contract for students performance tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SodokinMarius/School-management-Project-with-hardhat.git"
+  },
+  "author": "Yao Marius SODOKIN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SodokinMarius/School-management-Project-with-hardhat/issues"
+  },
+  "homepage": "https://github.com/SodokinMarius/School-management-Project-with-hardhat#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.7"
+  }
+}
