@@ -4,10 +4,10 @@ import { ethers } from "hardhat";
 import { expect } from "chai";
 
 // Import the contract(s) to be tested
-import "../contracts/SchoolManagementSystem.sol";
+import "../contracts/StudentPerformance.sol";
 
 // Start of the test suite
-describe("SchoolManagementSystem", function () {
+describe("StudentPerformance", function () {
   // Declare variables to be used in the tests
   let school;
   let owner;
